@@ -37,4 +37,5 @@ Tasks are automatically saved to local storage, so you won't lose your data if y
 
 #Screenshots:
 
-<img width="953" alt="to-do-img" src="https://github.com/gujjarappagariharibabu2/to-do-lists/assets/100626051/c08d1024-2dec-4186-ab14-e19aadf8a627">
+<img width="953" alt="to-do-img" src="https://github.com/gujjarappagariharibabu2/to-do-lists/assets/100626051/5d2a89f7-d832-4bb5-a49a-05a936431b19">
+
